@@ -63,15 +63,15 @@ const products = [
   },
   {
     id: 11,
-    name: 'Alyonka',
-    cost: '$14.49',
-    image: '/image/alenka.jpg',
+    name: 'Merci',
+    cost: '$8.49',
+    image: '/image/merci.jpg',
   },
   {
     id: 12,
-    name: 'Alyonka',
-    cost: '$14.49',
-    image: '/image/alenka.jpg',
+    name: 'Ritter Sport',
+    cost: '$22.49',
+    image: '/image/ritter.jpg',
   },
 
 ];
